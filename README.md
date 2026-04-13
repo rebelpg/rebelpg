@@ -11,7 +11,7 @@ Robotics student · IISER Bhopal · Research Intern @ IIT BHU
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prashant7579-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/prashant7579)&nbsp;
 [![Twitter](https://img.shields.io/badge/Twitter-@pg_robotics-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/pg_robotics)&nbsp;
 [![Email](https://img.shields.io/badge/Email-pgnta.1385@gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:pgnta.1385@gmail.com)&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-rebelpg-181717?style=flat-square&logo=github)](https://github.com/rebelpg)
+[![YouTube](https://img.shields.io/badge/YouTube-rebelpg7579-FF0000?style=flat-square&logo=youtube)](https://youtube.com/@rebelpg7579)
  
 </div>
  
